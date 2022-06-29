@@ -32,6 +32,18 @@ mydata <- select(GSS,race,age,eatout)
 mydata <- na.omit(mydata)
 ```
 
+## Methods
+
+response variable is catagorical: dine out last week? yes or no 
+
+explanitory variale is race, it, too, is a catagorical variable.
+so we use cat~cat
+
+inference: chi_squared and fisher exact tests 
+
+## Discriptive summaries 
+
+## Graphical summary
 
 
 
