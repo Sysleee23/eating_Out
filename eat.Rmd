@@ -78,3 +78,8 @@ Chi-squared test shows that white people eat sigfiigantly more that black and ot
 ```{r}
 fisherXY(mydata$race,mydata$eatout)
 ```
+Based on the numerical data we can see that the p value is 1.183 which is less than which means that we would reject the null hypothosis because based on race you can see that white people eat out significantly more than black and other people.
+
+# Conclution 
+
+After close evaluation we will have to reject the null hypothisis because the pvalue is too small. Meaning that eatting out is definitly based on race because in all the evidence that was shown you can see that white people eat way more than any other race but when it comes to black and other they eat out about the same amount. 
